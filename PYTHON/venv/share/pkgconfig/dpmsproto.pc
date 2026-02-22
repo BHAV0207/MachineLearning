@@ -1,0 +1,7 @@
+prefix=/home/bhavjain/coding_gang/MachineLearning/PYTHON/venv
+includedir=${prefix}/include
+
+Name: DPMSProto
+Description: DPMS extension headers
+Version: 1.2
+Cflags: -I${includedir}
